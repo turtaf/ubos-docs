@@ -1,0 +1,12 @@
+q) what happens if I get an error installing a new site on a fresh install?
+a) This could be due to an update of the files on our servers, try ubos-admin update first and follow any instruction that might come. Then try again.
+
+q) can I ssh into my ubos machine?
+a) of course you can, you just need to access once physically and setting a root password with the passwd command.
+
+q) I’m creating a new site with ubos-admin createsite, why am I asked to give it a domain name? Do I need to set up a name server?
+
+q) Hey cool it looks like I just installed a site! Now how can I access (via web) the site I created on ubos from my LAN? is there any special ip? how do I find it?
+
+q) Is it safe to have my site accessible from the public web?
+
